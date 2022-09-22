@@ -12,8 +12,10 @@ dependencies:
   - numpy
   - openpyxl
   - pandas
+  - seaborn
   - scipy
   - tqdm
+  - xarray
 # if you need to pip install anything:
 #   - pip
 #   - pip:
